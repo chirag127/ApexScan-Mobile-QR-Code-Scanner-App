@@ -1,0 +1,50 @@
+badges:
+  - name: Build Status
+    status: passing
+    label: Build
+    color: success
+    logo: github
+    url: https://github.com/chirag127/ApexScan-Mobile-QR-Code-Scanner-App/actions/workflows/ci.yml
+    markdown: "[![Build Status](https://img.shields.io/github/actions/workflow/status/chirag127/ApexScan-Mobile-QR-Code-Scanner-App/ci.yml?style=flat-square&label=Build&logo=github&color=success)](https://github.com/chirag127/ApexScan-Mobile-QR-Code-Scanner-App/actions/workflows/ci.yml)"
+  - name: Code Coverage
+    status: 100.0
+    label: Coverage
+    color: brightgreen
+    logo: codecov
+    url: https://codecov.io/gh/chirag127/ApexScan-Mobile-QR-Code-Scanner-App
+    markdown: "[![Code Coverage](https://img.shields.io/codecov/c/gh/chirag127/ApexScan-Mobile-QR-Code-Scanner-App?style=flat-square&label=Coverage&color=brightgreen&logo=codecov)](https://codecov.io/gh/chirag127/ApexScan-Mobile-QR-Code-Scanner-App)"
+  - name: Language
+    status: TypeScript
+    label: Language
+    color: blue
+    logo: typescript
+    url: https://github.com/chirag127/ApexScan-Mobile-QR-Code-Scanner-App
+    markdown: "[![Language](https://img.shields.io/github/languages/top/chirag127/ApexScan-Mobile-QR-Code-Scanner-App?style=flat-square&label=Language&color=blue&logo=typescript)](https://github.com/chirag127/ApexScan-Mobile-QR-Code-Scanner-App)"
+  - name: Frameworks
+    status: React-Native/Expo
+    label: Stack
+    color: deepskyblue
+    logo: react
+    url: https://reactnative.dev/
+    markdown: "[![Frameworks](https://img.shields.io/badge/Frameworks-React%20Native%20%2F%20Expo-deepskyblue?style=flat-square&logo=react)](https://reactnative.dev/)"
+  - name: License
+    status: CC-BY-NC-4.0
+    label: License
+    color: lightgray
+    logo: balance-scale
+    url: https://github.com/chirag127/ApexScan-Mobile-QR-Code-Scanner-App/blob/main/LICENSE
+    markdown: "[![License](https://img.shields.io/github/license/chirag127/ApexScan-Mobile-QR-Code-Scanner-App?style=flat-square&label=License&color=lightgray&logo=balance-scale)](https://github.com/chirag127/ApexScan-Mobile-QR-Code-Scanner-App/blob/main/LICENSE)"
+  - name: GitHub Stars
+    status: dynamic
+    label: Stars
+    color: gold
+    logo: star
+    url: https://github.com/chirag127/ApexScan-Mobile-QR-Code-Scanner-App
+    markdown: "[![GitHub Stars](https://img.shields.io/github/stars/chirag127/ApexScan-Mobile-QR-Code-Scanner-App?style=flat-square&label=Stars&color=gold&logo=star)](https://github.com/chirag127/ApexScan-Mobile-QR-Code-Scanner-App)"
+  - name: Last Commit
+    status: dynamic
+    label: Last Commit
+    color: purple
+    logo: history
+    url: https://github.com/chirag127/ApexScan-Mobile-QR-Code-Scanner-App/commits/main
+    markdown: "[![Last Commit](https://img.shields.io/github/last-commit/chirag127/ApexScan-Mobile-QR-Code-Scanner-App?style=flat-square&label=Last%20Commit&color=purple&logo=history)](https://github.com/chirag127/ApexScan-Mobile-QR-Code-Scanner-App/commits/main)"
